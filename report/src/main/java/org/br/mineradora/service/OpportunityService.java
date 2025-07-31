@@ -18,6 +18,6 @@ public interface OpportunityService {
 
     List<OpportunityDTO> generateOpportunityData();
 
-    ByteArrayInputStream generatedCSVOpportunityReport();
+    // ByteArrayInputStream generatedCSVOpportunityReport();
 
 }
